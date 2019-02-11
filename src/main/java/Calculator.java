@@ -19,4 +19,17 @@ public class Calculator {
 
     }
 
+    public double multiply() {
+        return (this.num1 * this.num2);
+
+    }
+
+    public double divide() {
+        return (this.num1 / this.num2);
+
+    }
+
+
+
+
 }
